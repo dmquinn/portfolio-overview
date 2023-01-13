@@ -2,7 +2,7 @@
 
 <h3>React</h3>
 <ul>
-  <li><a href="">Music Video Playlist App</a>
+  <li><a href="https://github.com/dmquinn/olsen-video">Music Video Playlist App</a>
     <ul>
         <li>Spotify API</li>
         <li>Google APIs</li>
@@ -12,7 +12,7 @@
         <li>Express</li>
     </ul>
   </li>
-  <li><a href="">E-commerce Record Store</a>
+  <li><a href="https://github.com/dmquinn/MERN-e-commerce">E-commerce Record Store</a>
     <ul>
       <li>Redux</li>
       <li>MongoDB</li>
@@ -23,14 +23,14 @@
       <li>Express</li>
     </ul>
   </li>
-  <li><a href="">Photo Editor</a>
+  <li><a href="https://github.com/dmquinn/photo-editor">Photo Editor</a>
     <ul>
       <li>Typescript</li>
       <li>TailwindCSS</li>
       <li>SCSS</li>
     </ul>
   </li>
-  <li><a href="">SpaceX Launches Tracker</a>
+  <li><a href="https://github.com/dmquinn/graphql-spacex-app">SpaceX Launches Tracker</a>
     <ul>
       <li>GraphQL</li>
       <li>TypeScript</li>
@@ -48,7 +48,7 @@
       <li>Express</li>
     </ul>
   </li>
-  <li><a href="">Advanced Document Filtering</a>
+  <li><a href="https://github.com/dmquinn/data-filtering">Advanced Document Filtering</a>
     <ul>
       <li>Typescript</li>
       <li>Redux</li>
@@ -58,7 +58,7 @@
 
 <h3>Next.js</h3>
 <ul>
-  <li><a href="">Instagram Clone (Unfinished)</a>
+  <li><a href="https://github.com/dmquinn/Instagram-clone">Instagram Clone (Unfinished)</a>
     <ul>
         <li>Firebase</li>
         <li>Recoil</li>
@@ -66,14 +66,14 @@
         <li>TailwindCSS</li>
     </ul>
   </li>
-  <li><a href="">Blog</a>
+  <li><a href="https://github.com/dmquinn/GraphQL-Blog">Blog</a>
     <ul>
       <li>GraphQL</li>
       <li>GraphCMS</li>
       <li>TailwindCSS</li>
     </ul>
   </li>
-  <li><a href="">Pokedex</a>
+  <li><a href="https://github.com/dmquinn/Pokemon">Pokedex</a>
     <ul>
       <li>Typescript</li>
       <li>TailwindCSS</li>
@@ -84,14 +84,14 @@
 
 <h3>React Native</h3>
 <ul>
-  <li><a href="">Deliveroo Clone</a>
+  <li><a href="https://github.com/dmquinn/react-native-deliveroo">Deliveroo Clone</a>
     <ul>
         <li>Sanity.io</li>
         <li>Redux</li>
         <li>TailwindCSS</li>
     </ul>
   </li>
-  <li><a href="">Chat App</a>
+  <li><a href="https://github.com/dmquinn/React-Native-Chat">Chat App</a>
     <ul>
       <li>React Native Gifted Chat</li>
       <li>Firebase</li>
@@ -101,7 +101,7 @@
 
 <h3>VanillaJs / Ejs</h3>
 <ul>
-  <li><a href="">Events Page</a>
+  <li><a href="https://github.com/dmquinn/BUSCKR-local-events-app">Events Page</a>
     <ul>
         <li>EJS</li>
         <li>MongoDB</li>
@@ -109,7 +109,7 @@
         <li>Mapbox API</li>
     </ul>
   </li>
-  <li><a href="">Urban Exploring App</a>
+  <li><a href="https://github.com/dmquinn/Urban-Maps-app">Urban Maps / Exploring App</a>
     <ul>
         <li>EJS</li>
         <li>MongoDB</li>
@@ -117,13 +117,13 @@
         <li>Mapbox API</li>
     </ul>
   </li>
-  <li><a href="">Midi Controller</a>
+  <li><a href="https://github.com/dmquinn/Midi-controller">Midi Controller</a>
     <ul>
       <li>Web Audio Api</li>
       <li>Tone.js</li>
     </ul>
   </li>
-  <li><a href="">Step Sequencer</a>
+  <li><a href="https://github.com/dmquinn/Synthesizer">Step Sequencer</a>
     <ul>
       <li>Web Audio Api</li>
     </ul>
